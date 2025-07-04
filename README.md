@@ -1,0 +1,1 @@
+# claude-code-codespaces-template
